@@ -41,15 +41,17 @@ See requirements.txt for full list of dependencies.
 ---
 
 # File: requirements.txt
+```bash
 streamlit==1.31.0
 boto3==1.34.0
 scikit-learn==1.3.0
 moto==4.2.0
 pytest==7.4.0
-
+```
 ---
 
 # File: .gitignore
+```bash
 __pycache__/
 *.py[cod]
 *$py.class
@@ -61,5 +63,5 @@ ENV/
 .pytest_cache/
 .coverage
 .DS_Store
-
+```
 ---
